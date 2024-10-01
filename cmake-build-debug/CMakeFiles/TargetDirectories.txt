@@ -1,0 +1,3 @@
+/home/amir/Projects/find_msg/cmake-build-debug/CMakeFiles/find_msg.dir
+/home/amir/Projects/find_msg/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/amir/Projects/find_msg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
